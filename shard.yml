@@ -1,0 +1,9 @@
+name: crystal-upload
+version: 0.1.0
+
+authors:
+  - Andi Dwi Purnama <andidepe11@gmail.com>
+
+crystal: 0.24.2
+
+license: MIT
